@@ -1,0 +1,9 @@
+swig==4.4.1
+gymnasium[box2d]==1.2.3
+torch==2.6.0
+numpy==2.4.4
+tensorboard==2.20.0
+matplotlib==3.10.8
+protobuf==7.34.1
+pyglet==2.1.14
+black
